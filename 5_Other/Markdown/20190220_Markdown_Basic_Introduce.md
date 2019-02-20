@@ -6,10 +6,6 @@ Markdown
 > * HTML（HyperText Markup Language）超文本標示語言
 > * XML（eXtensible Markup Language）可延伸標示語言
 
-Markdown 很方便的是，只要添加`[TOC]`就可以建立目錄，其目錄式根據標題來構建。現在就來簡單介紹Markdown的語法：
-
-[TOC]
-
 ## 標題
 有六種標題大小可以選擇，皆使用 atx 形式，利用 `#` 符號加在文字前面，如果為了美觀效果，在文字的後面也可加上，如`#標題#`。
 另外 H1、 H2（最高階、第二階）可以額外使用 Setext 型式，可在文字下一行加上任意個`=`或`-`來達成 H1、H2。
