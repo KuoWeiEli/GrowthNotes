@@ -1,6 +1,6 @@
 Markdown
 ===========================
-創始人 John Gruber 在 2004 年製作的 Markdown 是一個輕量級標記語言（LML：Lightweight Markup Language），能夠輕鬆使用純文字加上特定標點符號（markup）來書寫有條理結構的文章）。
+創始人 John Gruber 在 2004 年製作的 Markdown 是一個輕量級標記語言（LML：Lightweight Markup Language），能夠輕鬆使用純文字加上特定標點符號（markup）來書寫有條理結構的文章。
 
 > 標記語言 （markup language）：在需要的地方添加標記（markup），以表示文字的結構與其他資訊的電腦文字編碼。標記最早用於出版業，現在工程師也很常用到標記語言，如下：
 > * HTML（HyperText Markup Language）超文本標示語言
