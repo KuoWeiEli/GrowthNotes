@@ -9,7 +9,7 @@ Markdown
 ## 標題
 有六種標題大小可以選擇，皆使用 atx 形式，利用 `#` 符號加在文字前面，如果為了美觀效果，在文字的後面也可加上，如`#標題#`。
 另外 H1、 H2（最高階、第二階）可以額外使用 Setext 型式，可在文字下一行加上任意個`=`或`-`來達成 H1、H2。
-![001.png](/5_Other/Markdown/Image/001.png "1.png")
+![1.png](/5_Other/Markdown/Image/1.png "1.png")
 
 
 ## 文字格式
@@ -26,42 +26,42 @@ Markdown
 
 ## 引言
 在註解或是引述一些文件（Email、文獻、別人的話...等等）皆適合使用這個來表達，其格式只要在最前面添加 `>` 符號即可 :
-![002.png](/5_Other/Markdown/Image/002.png "2.png")
+![2.png](/5_Other/Markdown/Image/2.png "2.png")
 
 引言也可以使用階層方式呈現以及加入任何Markdown語法在裡面！
-![003.png](/5_Other/Markdown/Image/003.png "3.png")
+![3.png](/5_Other/Markdown/Image/3.png "3.png")
 
 ## 清單
 清單可分為**有序**及**無序**，無序可以使用`*`、`+`、`-` 來標示。
-![004.png](/5_Other/Markdown/Image/004.png "4.png")
+![4.png](/5_Other/Markdown/Image/4.png "4.png")
 
 
 ## 待辦事項
-![005.png](/5_Other/Markdown/Image/005.png "5.png")
+![5.png](/5_Other/Markdown/Image/5.png "5.png")
 
 
 ## 超連結
-![006.png](/5_Other/Markdown/Image/006.png "6.png")
+![6.png](/5_Other/Markdown/Image/6.png "6.png")
 
 
 ## 圖片
-![007.png](/5_Other/Markdown/Image/007.png "7.png")
+![7.png](/5_Other/Markdown/Image/7.png "7.png")
 
 
 ## 表格
 表格的組成至少會有兩列，欄與欄之間使用 `|` 分隔。第一列為 Header ，第二列為設定格式必須至少要有一個`-`，`-` 兩旁可以添加 `:` 來設定對齊方式。
-![008.png](/5_Other/Markdown/Image/008.png "8.png")
+![8.png](/5_Other/Markdown/Image/8.png "8.png")
 
 
 
 ## 程式區塊
 程式可以使用行內或是區塊的方式來顯示，區塊方式可以支援幾十種程式語言高亮顯示。
-![009.png](/5_Other/Markdown/Image/009.png "9.png")
+![9.png](/5_Other/Markdown/Image/9.png "9.png")
 
 
 ## YouTube 影片
 Markdown並沒有內嵌YouTube影片的功能，不過可以利用附上圖片再加上超連結的方式達到效果。
-![010.png](/5_Other/Markdown/Image/010.png "10.png")
+![10.png](/5_Other/Markdown/Image/10.png "10.png")
 
 
 
