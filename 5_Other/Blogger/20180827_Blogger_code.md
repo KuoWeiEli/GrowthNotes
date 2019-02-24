@@ -6,7 +6,7 @@
 
 > **Warning！**
 >
-> * 接下來的教學也許過了一段時間後，就不再有其效果! 所以最好追蹤 [Google Code Prettify](github.com/google/code-prettify "Google Code Prettify") 在GitHub的近況。
+> * 接下來的教學也許過了一段時間後，就不再有其效果! 所以最好追蹤 [Google Code Prettify](github.com/google/code-prettify "Google Code Prettify") 在 GitHub 的近況。
 >
 > * 有些主題無法使用此功能，如官方的**動態檢視**主題！
 
@@ -23,7 +23,7 @@
 :-         |       :-:     |       :-
 autorun=(true, false)   |   true    |   在頁面加載時自動運行。
 lang=...    |  none |   加載指定語言，其參數名為**文件擴展名**，請參照支援的語言。可以指定多個語言（如：?lang=css&lang=ml）。不過預設將會自動判別語言，不須特別設定。
-skin=...    |   none    |   設定Code Block的CSS樣式，請參照官方的 [Skin Gallery](cdn.rawgit.com/google/code-prettify/master/styles/index.html "Skin Gallery")。
+skin=...    |   none    |   設定 Code Block 的 CSS 樣式，請參照官方的 [Skin Gallery](cdn.rawgit.com/google/code-prettify/master/styles/index.html "Skin Gallery")。
 callback=js_ident   |   |   `window.exports["js_ident"]` 將在精美打印完成時調用如果多次指定，則全部被調用。
 
 #### CSS 說明與使用
@@ -133,10 +133,10 @@ linenums:num    |   是否標註行號，`[:num]` 指定從第幾行開始顯示
 ```
 
 ## 外掛設置步驟
-#### 1、到 Blogger 管理後臺，選擇版面配置→新增小工具
+#### 1、到 Blogger 管理後臺，選擇`版面配置`→`新增小工具`
 ![3_blogger_code1.png](/5_Other/Blogger/Image/3_blogger_code1.png "3_blogger_code1.png")
 
-#### 2、點選 HTML/JavaScript
+#### 2、點選 `HTML/JavaScript`
 ![3_blogger_code2.png](/5_Other/Blogger/Image/3_blogger_code2.png "3_blogger_code2.png")
 
 #### 3、貼上剛剛的核心 JS 與 CSS 代碼後儲存
@@ -147,7 +147,7 @@ linenums:num    |   是否標註行號，`[:num]` 指定從第幾行開始顯示
 
 ## 實戰練習
 #### 1、準備代碼
-我們就 HTML sample code 來示範要如何將代碼變成剛剛設定的**Code Block**樣式。代碼如下：
+我們就 HTML sample code 來示範要如何將代碼變成剛剛設定的 **Code Block** 樣式。代碼如下：
 
 ```HTML
 <!DOCTYPE html>
@@ -167,7 +167,7 @@ linenums:num    |   是否標註行號，`[:num]` 指定從第幾行開始顯示
 ![3_blogger_code4.png](/5_Other/Blogger/Image/3_blogger_code4.png "3_blogger_code4.png")
 
 #### 3、置入代碼
-將轉換過的代碼，與下列代碼中的其中一段**將程式碼貼入這裡**做置換。並在 **HTML模式**下（注意，不是在**撰寫模式**），貼到想要的位置。
+將轉換過的代碼，與下列代碼中的其中一段**將程式碼貼入這裡**做置換。並在 **HTML 模式**下（注意，不是在**撰寫模式**），貼到想要的位置。
 ```HTML
 <pre class="prettyprint linenums">
     <code>將程式碼貼入這裡!</code>

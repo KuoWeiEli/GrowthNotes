@@ -22,10 +22,10 @@
 ![2_blogger_favicon4.png](/5_Other/Blogger/Image/2_blogger_favicon4.png "2_blogger_favicon4.png")
 
 #### 設置圖片
-下載完成後，到 Blogger 的管理後台，點選**版面配置**，再點選網站小圖示的**編輯**。
+下載完成後，到 Blogger 的管理後台，點選`版面配置`，再點選網站小圖示的`編輯`。
 ![2_blogger_favicon5.png](/5_Other/Blogger/Image/2_blogger_favicon5.png "2_blogger_favicon5.png")
 
-這裡就可以看見**上傳100KB大小的限制**。選擇剛剛下載下來的檔案，接著按**儲存**。
+這裡就可以看見**上傳100KB大小的限制**。選擇剛剛下載下來的檔案，接著按`儲存`。
 ![2_blogger_favicon6.png](/5_Other/Blogger/Image/2_blogger_favicon6.png "2_blogger_favicon6.png")
 
 #### 檢視成果
@@ -43,7 +43,7 @@ Favicon 就出現在眾人的眼前囉！如果發現沒有出現 Favicon，可�
 ```html
 https://lh3.googleusercontent.com/vUGvHrIKZbcBKLRFTXEihIrAK8pIzhrcy7b5zgaJXYzaOSGH4YRmK01KYbCTlcsd7Z-SsxOi0vqz4C6jMlltuEtuGr33mjK9V1mSmxi8rj_-dU-z4FBmuA1EzPetzzvg3jzjOgbek-yL1sQMZ3Y2ED0RXnPCroYZQGDYkXW7UuKoh9-ygNLTTVPJKQo8xU-M5_zniMR8OxiexgnETRxx9W7eaCv0tscQzWtzadR8YroyMdPhQxVA2FcMQXM8tCajgSg4Q8oGMrOMGk2x425E28YjmQ7itLMWaBWtMqoV3LvQZGlGpefPtVEU0RaC2sTeMlnKFB2uxcbf_hTmcOqRvAxpKrq9R2-8tbrDJpw94q7L5iqAxk16NFSONMDxcSQFmw6mOhSyr-badlJoeVFJkhvx-sZGa9Jvuud2oXHu3a31KQ2Se1dIV25IeJsn5fPRnhFqPGeQ1kf3uaYjK13HxywcoQq4rDhfZPfpMcMLGIYnX7VPMDzbwpEarzzrGq2YBYIWwg0BtR7gmeJkNdO4xjkS3CXSxyfakuc8-aaEHfEyYmDoBZJZbUB-4aK7iBJMAdwSXZWbevS4WrO1ofiYzlnHgLo7FGcEjm06f2V5tq-dqXDRjjS1pntsb8nLYNI=w1259-h788-no
 ```
-在網址的最後面可看到有一段參數`w1259-h788`，w1259就是寬度1259px、h788就是高度788px。為了保持照片的寬高比  （才不會使照片變形），只要設定 `ｗ` 後面的數字就行，如` w800`。
+在網址的最後面可看到有一段參數`w1259-h788`，w1259就是寬度1259px、h788就是高度788px。為了保持照片的寬高比  （才不會使照片變形），只要設定 `w` 後面的數字就行，如 `w800`。
 
 編輯好這段網址後，接著就是將圖片載入文章內，選擇 **HTML 編輯模式**，這樣的好處就是編輯器不會再幫你添加額外的參數，甚至壓縮你的圖片。將下列的 HTML 貼近你想要的位置即可。
 ```html

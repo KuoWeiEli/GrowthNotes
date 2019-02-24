@@ -34,7 +34,7 @@
 ![1_blogger_theme5.png](/5_Other/Blogger/Image/1_blogger_theme5.png "1_blogger_theme5.png")
 ![1_blogger_theme6.png](/5_Other/Blogger/Image/1_blogger_theme6.png "1_blogger_theme6.png")
 
-> 上面的`下載主題`可以備份現在 Blogge r的主題，每一次 XML 檔最好都要備份保存下來，以免手殘改錯，欲哭無淚！
+> 上面的`下載主題`可以備份現在 Blogger 的主題，每一次 XML 檔最好都要備份保存下來，以免手殘改錯，欲哭無淚！
 
 * * *
 這樣就大功告成囉！ 經過上面的步驟下來，你的Blogger 已經穿上新裝，接著就等著你帶它出來好好展現囉！😏 

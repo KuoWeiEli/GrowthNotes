@@ -13,14 +13,14 @@ DISQUS 目前似乎是最受歡迎的第三方留言外掛模組。
 聽了後有沒有心動的感覺？那我們就馬上來替換我們的留言模組吧！ 
 
 ## 教學說明
-#### 1、進入 [DISQUS](disqus.com "DISQUS") 網站，並點擊**Get Started**
+#### 1、進入 [DISQUS](disqus.com "DISQUS") 網站，並點擊 `Get Started`
 > **Hint！**
 >
 > 要使用 DISQUS 網站必須先註冊其會員。（還未註冊者，可直接點擊 Google 圖示來註冊）。
 
 ![blogger_disqus1.png](/5_Other/Blogger/Image/blogger_disqus1.png "blogger_disqus1.png")
 
-#### 2、點擊 *I want to install Disqus on my site*
+#### 2、點擊 `I want to install Disqus on my site`
 ![blogger_disqus2.png](/5_Other/Blogger/Image/blogger_disqus2.png "blogger_disqus2.png")
 
 #### 3、輸入你的 website name、catogory

@@ -13,5 +13,6 @@
 * 後端 Front-end
 * DevOps 
 * Other
-    * [Markdown](/5_Other/Markdown/README.md "點我看Markdown！")
+    * [Markdown](/5_Other/Markdown/README.md "點我看 Markdown！")
+	* [Blogger](/5_Other/Blogger/README.md "點我看 Blogger！")
 * Notes
