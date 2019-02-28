@@ -46,6 +46,10 @@ Markdown 上面可以使用 HTML 元素來書寫，且元素裡面的 Markdown �
 `[TOC]`是一個依照文章內的標題（H1～H6）自動建立一個具有階層架構目錄的語法。原本的 Markdown 並沒有此語法，Evernote 有支援。使用上也很簡單，只要在欲安插目錄的文章位置打上 `[TOC]`，就會依照文章內的標題去建構目錄。
 > 目前 GitHub 沒有支援，必須透過安裝插件才能夠使用。
 
+#### 小地方
+* Markdown 語法如果需要換行的話，需要按下 `Enter` 兩次。Evernote 換行只需 `Enter` 一次。
+* 刪除符號 `~` ，Markdown 只需要在文字兩旁加上一個 `~` 就行。 Evernote 需要兩個符號才可以。
+
 ## Extra feature in Evernote's Markdown
 #### 支持圖表（餅圖、柱狀圖、條狀圖、折線圖）
 其軸項還有一些變數可以使用 : 
