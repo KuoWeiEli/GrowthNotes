@@ -11,7 +11,7 @@
     * GitHub－版本控制程式碼代管服務
 * 前端 Front-end
 	* [Javascript－Functional Languages](/2_FrontEnd/Javascript/README.md "點我看 Javascript！")
-* 後端 Front-end
+* 後端 Back-end
 	* [Oracle－關聯式資料庫管理系統](/3_BackEnd/Oracle/README.md "點我看 Oracle！")
 * DevOps 
 * Other
