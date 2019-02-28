@@ -1,6 +1,6 @@
 # Oracle ─ Listagg Function：十大金釵
 
-![Listagg Image](/3_後端 Front-end/Oracle/Image/Oracle_LISTAGG_Function.png "Listagg Image")
+![Listagg Image](/3_BackEnd/Oracle/Image/Oracle_LISTAGG_Function.png "Listagg Image")
 
 Eric 看著手上拿的密技，趴搭趴搭在電腦上輸入了 SQL，並將結果列印出來給了 Yuli 教授。
 
@@ -101,7 +101,7 @@ Eric 看著偵探社所給的調查結果，彷彿看到了未來健身幫充滿
 
 這位飢渴難耐的男學生也終於拿到了一本，迫不及待地翻開雜誌...。
 
-![Top 10 Beauty Image](/3_後端 Front-end/Oracle/Image/Oracle_LISTAGG_Function_Beauty.png "Top 10 Beauty Image")
+![Top 10 Beauty Image](/3_BackEnd/Oracle/Image/Oracle_LISTAGG_Function_Beauty.png "Top 10 Beauty Image")
 
 這位男學生看到一半，發現站在旁邊的人不太對勁，立刻拔腿就跑。顫抖的手捏爛了健身幫的雜誌，蒼白的嘴唇被使勁地咬到流出血絲，他們的主人站在垃圾桶旁邊，隨即將雜誌丟往垃圾桶裡...。
 

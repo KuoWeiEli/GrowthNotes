@@ -10,9 +10,9 @@
 	* Design Pattern－設計模式
     * GitHub－版本控制程式碼代管服務
 * 前端 Front-end
-	* [Javascript－Functional Languages](/2_前端 Front-end/Javascript/README.md "點我看 Javascript！")
+	* [Javascript－Functional Languages](/2_FrontEnd/Javascript/README.md "點我看 Javascript！")
 * 後端 Front-end
-	* [Oracle－關聯式資料庫管理系統](/3_後端 Front-end/Oracle/README.md "點我看 Oracle！")
+	* [Oracle－關聯式資料庫管理系統](/3_BackEnd/Oracle/README.md "點我看 Oracle！")
 * DevOps 
 * Other
     * [Markdown－輕量型標記語言](/5_Other/Markdown/README.md "點我看 Markdown！")

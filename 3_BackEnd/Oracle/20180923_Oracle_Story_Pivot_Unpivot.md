@@ -1,6 +1,6 @@
 # Oracle - Pivot & Unpivot : 心動
 
-![Pivot_Unpivot Image](/3_後端 Front-end/Oracle/Image/Oracle_Pivot_Unpivot.png "Pivot_Unpivot Image")
+![Pivot_Unpivot Image](/3_BackEnd/Oracle/Image/Oracle_Pivot_Unpivot.png "Pivot_Unpivot Image")
 
 仿柚木質感的長桌上面有一張疑似小希筆記的影本，旁邊則擺放著筆盒與水壺，還有一大疊厚厚的書。它們的主人公手裡拿著一本雜誌正在翻閱，嘴巴正念念有詞。
 
@@ -89,7 +89,7 @@ Johnson | 公假 | 11
 
 「恩，勉強可以拉！不過阿~統計表能不能幫我調整一下，將事假、病假、公假變成欄位 header 呢？像這樣！」小希邊說邊在一張白紙上畫出想要的統計圖表樣式。
 
-![Oracle_Pivot_Sample Image](/3_後端 Front-end/Oracle/Image/Oracle_Pivot_Sample.png "Oracle_Pivot_Sample Image")
+![Oracle_Pivot_Sample Image](/3_BackEnd/Oracle/Image/Oracle_Pivot_Sample.png "Oracle_Pivot_Sample Image")
 
 想要在小希面前耍帥的 Eli，看著這張統計圖表樣式，原本的神氣貌漸漸消失。
 

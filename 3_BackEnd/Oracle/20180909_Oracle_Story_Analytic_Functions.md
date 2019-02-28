@@ -10,7 +10,7 @@
 
 隨著討論聲的慢慢消落，教室終於恢復了平靜，只留下了教授改卷的聲音與咒罵聲...。
 
-![Analytic_Functions Image](/3_後端 Front-end/Oracle/Image/Oracle_Analytic_Function.png "Analytic_Functions Image")
+![Analytic_Functions Image](/3_BackEnd/Oracle/Image/Oracle_Analytic_Function.png "Analytic_Functions Image")
 
 小希停下寫了一陣子的手，眼睛掃視剛剛做的筆記。
 
