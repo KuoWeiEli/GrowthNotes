@@ -21,6 +21,8 @@ OPTIONS 內填入需要的命令參數，彼此使用`,`分隔，可使用的參
 OPTIONS (skip=1)    -- OPTIONS 參數
 LOAD DATA             -- 宣告開始
 
+CHARACTERSET AL32UTF8  -- 需告編碼方式
+
 INFILE "data.csv"   -- 指定資料檔，可以寫多個 INFILE 指定多個資料檔。
 -- 另外還可指定 BADFILE（壞資料）、DISCARDFILE (丟棄資料)
 
