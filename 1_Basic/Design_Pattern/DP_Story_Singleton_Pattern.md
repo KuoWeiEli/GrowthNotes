@@ -16,7 +16,7 @@
 
 Lance 是一個單例類別，由 SingletonDemo 來存取測試。
 
-![Singleton UML](/1_Basic/Design Pattern/Image/Singleton_J.png "Singleton UML")
+![Singleton UML](/1_Basic/Design_Pattern/Image/Singleton_J.png "Singleton UML")
 
 ### Code：
 
@@ -89,4 +89,4 @@ public class SingletonDemo {
 
 可發現多執行緒的情況下，Lance 仍保持單一實體。
 
-![Singleton Result](/1_Basic/Design Pattern/Image/Singleton_R.png "Singleton Result")
+![Singleton Result](/1_Basic/Design_Pattern/Image/Singleton_R.png "Singleton Result")
