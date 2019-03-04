@@ -12,7 +12,7 @@
 ### UML：
 Pokemon（寶可夢）為抽象類別。Bulbasaur（妙蛙種子）、Charmander（小火龍）、Squirtle（傑尼龜）均是 Pokemon 的子類別。而 ProfessorSamuelOak（大木博士）則是簡單工廠類別，負責提供玩家指定的寶可夢。
 
-![Simple Factory UML](/1_Basic/Design Pattern/Image/SimpleFactory_J.png "Simple Factory UML")
+![Simple Factory UML](/1_Basic/Design_Pattern/Image/SimpleFactory_J.png "Simple Factory UML")
 
 ### Code：
 
@@ -114,4 +114,4 @@ public class SimpleFactoryDemo {
     }
 }
 ```
-![Simple Factory Result](/1_Basic/Design Pattern/Image/SimpleFactory_R.png "Simple Factory Result")
+![Simple Factory Result](/1_Basic/Design_Pattern/Image/SimpleFactory_R.png "Simple Factory Result")

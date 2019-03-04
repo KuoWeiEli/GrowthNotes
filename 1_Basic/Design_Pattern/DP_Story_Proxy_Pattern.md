@@ -21,7 +21,7 @@
 
 這邊將大木博士以保管員代稱。一個保管員必須能夠處理**領取**、**保管**、**放生**寶可夢等請求，因此有了 Caretaker（保管員）介面來規範處理操作。而　PokemonCaretaker（寶可夢保管員）、Computer（電腦）均實作了 Caretaker 介面，擁有可以管理 Pokemon（寶可夢）的能力。
 
-![Proxy UML](/1_Basic/Design Pattern/Image/Proxy_J.png "Proxy UML")
+![Proxy UML](/1_Basic/Design_Pattern/Image/Proxy_J.png "Proxy UML")
 
 ### Code：
 
@@ -137,4 +137,4 @@ public class ProxyDemo {
 }
 ```
 
-![Proxy Result](/1_Basic/Design Pattern/Image/Proxy_R.png "Proxy Result")
+![Proxy Result](/1_Basic/Design_Pattern/Image/Proxy_R.png "Proxy Result")

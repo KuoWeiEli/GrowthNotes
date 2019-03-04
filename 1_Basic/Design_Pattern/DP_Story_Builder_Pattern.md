@@ -15,7 +15,7 @@
 
 我們繼續使用上一篇 [抽象工廠模式-均衡的訓練家](DP_Story_Abstract_Factory_Pattern.md "抽象工廠模式") 的類別架構，只多了一個建造者的介面 BattleOrder（出戰順序）。實作 BattleOrder 該介面的有兩個，分別是 WaterFirst（水屬優先）與 FireFirst（火屬優先）。
 
-![Builder UML](/1_Basic/Design Pattern/Image/Builder_J.png "Builder UML")
+![Builder UML](/1_Basic/Design_Pattern/Image/Builder_J.png "Builder UML")
 
 ### Code：
 
@@ -75,4 +75,4 @@ public class BuilderDemo {
 }
 ```
 
-![Builder Result](/1_Basic/Design Pattern/Image/Builder_R.png "Builder Result")
+![Builder Result](/1_Basic/Design_Pattern/Image/Builder_R.png "Builder Result")

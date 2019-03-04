@@ -16,7 +16,7 @@
 
 Pokedex（圖鑑）是一個介面，規範了圖鑑應該為玩家提供的功能。而實作這個介面的為 BasicPokedex（基本圖鑑），在一開始就擁有了KantoMap（關都地圖）、Pokemon（寶可夢）、LeagueCenter（聯盟中心）這些類別，並使用這些類別的方法來實作 Pokedex。Map（地圖）也是個介面，規範地圖應該提供的功能，實作的子介面有 KantoMap、JohtoMap（城都地圖）。
 
-![Facade UML](/1_Basic/Design Pattern/Image/Facade_J.png "Facade UML")
+![Facade UML](/1_Basic/Design_Pattern/Image/Facade_J.png "Facade UML")
 
 ### Code：
 
@@ -152,4 +152,4 @@ public class FacadeDemo {
 }
 ```
 
-![Facade Result](/1_Basic/Design Pattern/Image/Facade_R.png "Facade Result")
+![Facade Result](/1_Basic/Design_Pattern/Image/Facade_R.png "Facade Result")

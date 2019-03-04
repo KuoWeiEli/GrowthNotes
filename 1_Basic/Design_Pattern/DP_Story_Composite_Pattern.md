@@ -28,7 +28,7 @@
 
 Team（小隊）、Organization（組織）都繼承 Rocket（火箭隊）這個抽象類別，它們都必須實作父類別的抽象方法。唯一不同的是，Organization 有個 List 集合 `group`，能夠招募小隊，或是汰除不適任小隊。而 Team 是最小單位，無法再招募或汰除。
 
-![Composite UML](/1_Basic/Design Pattern/Image/Composite_J.png "Composite UML")
+![Composite UML](/1_Basic/Design_Pattern/Image/Composite_J.png "Composite UML")
 
 ### Code：
 
@@ -139,4 +139,4 @@ public class CompositeDemo {
 }
 ```
 
-![Composite Result](/1_Basic/Design Pattern/Image/Composite_R.png "Composite Result")
+![Composite Result](/1_Basic/Design_Pattern/Image/Composite_R.png "Composite Result")

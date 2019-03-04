@@ -14,7 +14,7 @@
 ### UML：
 Gym（道館）是個介面，他有個 `assignTrainer`（派出訓練家）的方法。所有道館均實作 Gym 介面，皆會派出 Trainer（訓練家）來與玩家對戰。每個道館主打的風格都不同，像是第一道館主打岩系寶可夢，就會派出岩系訓練家來對戰。所有屬性的訓練家都會繼承 Trainer 並實作方法。 
 
-![Factory UML](/1_Basic/Design Pattern/Image/Factory_J.png "Factory UML")
+![Factory UML](/1_Basic/Design_Pattern/Image/Factory_J.png "Factory UML")
 
 ### Code：
 Trainer（訓練家）是個抽象類別，擁有 `name`（訓練家名稱），`pokemons`（擁有的寶可夢）屬性。其子類別必須實作 `battleInfo` 方法來顯示戰鬥資訊。
@@ -139,4 +139,4 @@ public class FactoryDemo {
 }
 ```
 
-![Factory Result](/1_Basic/Design Pattern/Image/Factory_R.png "Factory Result")
+![Factory Result](/1_Basic/Design_Pattern/Image/Factory_R.png "Factory Result")

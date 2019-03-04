@@ -15,7 +15,7 @@
 
 Nurse（護士）擁有一個 Location（工作地點）類別，並且它們都實作 Cloneable 介面，需要實作 `clone( )`方法。
 
-![Prototype UML](/1_Basic/Design Pattern/Image/Prototype_J.png "Prototype UML")
+![Prototype UML](/1_Basic/Design_Pattern/Image/Prototype_J.png "Prototype UML")
 
 ### Code：
 
@@ -107,4 +107,4 @@ public class PrototypeDemo {
 }
 ```
 
-![Prototype Result](/1_Basic/Design Pattern/Image/Prototype_R.png "Prototype Result")
+![Prototype Result](/1_Basic/Design_Pattern/Image/Prototype_R.png "Prototype Result")

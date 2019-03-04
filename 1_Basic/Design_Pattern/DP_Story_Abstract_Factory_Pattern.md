@@ -17,7 +17,7 @@
 
 介面 Trainer（訓練家），是個抽象工廠，規範派出不同屬性的寶可夢來對戰。實作這個介面的有 AggressiveTrainer（攻擊型訓練家）、DefensiveTrainer（防禦型訓練家）。他們是具體工廠類別，實作的每個方法將會返回不同屬性不同類型的寶可夢。
 
-![Abstract Factory UML](/1_Basic/Design Pattern/Image/Abstract_Factory_J.png "Abstract Factory UML")
+![Abstract Factory UML](/1_Basic/Design_Pattern/Image/Abstract_Factory_J.png "Abstract Factory UML")
 
 ### Code：
 
@@ -142,4 +142,4 @@ public class AbstractFactoryDemo {
     }
 }
 ```
-![Abstract Factory Result](/1_Basic/Design Pattern/Image/Abstract_Factory_R.png "Abstract Factory Result")
+![Abstract Factory Result](/1_Basic/Design_Pattern/Image/Abstract_Factory_R.png "Abstract Factory Result")

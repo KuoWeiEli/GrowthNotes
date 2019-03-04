@@ -15,7 +15,7 @@
 
 Surf（衝浪）是個介面，只要實作這個介面就可以自由自在地在海面上移動。現在可以看到，野生的 Squirtle（傑尼龜）實作這個介面，牠本身就可以在海面上衝浪。那沒有水系寶可夢也沒有船票怎麼辦？現在玩家就只有一個 Box（箱子），雖然人可以在箱子裡面，但箱子沒辦法在海面上浮起來。這時候就只好用轉接器 Raft（木筏）包裝一下 Box，因為 Raft 有實作 Surf 介面，所以它就可以在海面上移動了！
 
-![Adapter UML](/1_Basic/Design Pattern/Image/Adapter_J.png "Adapter UML")
+![Adapter UML](/1_Basic/Design_Pattern/Image/Adapter_J.png "Adapter UML")
 
 ### Code：
 
@@ -94,4 +94,4 @@ public class AdapterDemo {
 }
 ```
 
-![Adapter Result](/1_Basic/Design Pattern/Image/Adapter_R.png "Adapter Result")
+![Adapter Result](/1_Basic/Design_Pattern/Image/Adapter_R.png "Adapter Result")
