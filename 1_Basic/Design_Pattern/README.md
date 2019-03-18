@@ -25,3 +25,4 @@ Design Pattern
 * [DP ─ 合成模式：火箭隊](DP_Story_Composite_Pattern.md "合成模式")
 * [DP ─ 轉接器模式：橫渡海洋](DP_Story_Adapter_Pattern.md "轉接器模式")
 * [DP ─ 代理模式：健康中心的電腦](DP_Story_Proxy_Pattern.md "代理模式")
+* [DP ─ 裝飾模式：寶貝球](DP_Story_Decorator_Pattern.md "裝飾模式")
