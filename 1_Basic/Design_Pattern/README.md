@@ -15,20 +15,20 @@ Design Pattern
 接下來就開始寶可夢旅程吧！
 
 * Creational Patterns 創建型模式
-	* [DP ─ 簡單工廠模式：選擇御三家](DP_Story_Simple_Factory_Pattern.md "簡單工廠模式")
-	* [DP ─ 工廠模式：挑戰道館](DP_Story_Factory_Pattern.md "工廠模式")
-	* [DP ─ 抽象工廠模式：均衡的訓練家](DP_Story_Abstract_Factory_Pattern.md "抽象工廠模式")
-	* [DP ─ 建造者模式：寶可夢出戰順序](DP_Story_Builder_Pattern.md "建造者模式")
-	* [DP ─ 單例模式：四大天王](DP_Story_Singleton_Pattern.md "單例模式")
-	* [DP ─ 原型模式：喬伊小姐](DP_Story_Prototype_Pattern.md "原型模式")
+	* [DP ─ 簡單工廠模式：選擇御三家](DP_Story_Simple_Factory_Pattern.md "Simple_Factory_Pattern")
+	* [DP ─ 工廠模式：挑戰道館](DP_Story_Factory_Pattern.md "Factory_Pattern")
+	* [DP ─ 抽象工廠模式：均衡的訓練家](DP_Story_Abstract_Factory_Pattern.md "Abstract_Factory_Pattern")
+	* [DP ─ 建造者模式：寶可夢出戰順序](DP_Story_Builder_Pattern.md "Builder_Pattern")
+	* [DP ─ 單例模式：四大天王](DP_Story_Singleton_Pattern.md "Singleton_Pattern")
+	* [DP ─ 原型模式：喬伊小姐](DP_Story_Prototype_Pattern.md "Prototype_Pattern")
 * Structural Patterns 結構型模式
-	* [DP ─ 表象(外觀)模式：智能圖鑑](DP_Story_Facade_Pattern.md "表象(外觀)模式")
-	* [DP ─ 合成模式：火箭隊](DP_Story_Composite_Pattern.md "合成模式")
-	* [DP ─ 轉接器模式：橫渡海洋](DP_Story_Adapter_Pattern.md "轉接器模式")
-	* [DP ─ 代理模式：健康中心的電腦](DP_Story_Proxy_Pattern.md "代理模式")
-	* [DP ─ 裝飾模式：寶貝球](DP_Story_Decorator_Pattern.md "裝飾模式")
-	* [DP ─ 享元（蠅量級）模式：NPC](DP_Story_Flyweight_Pattern.md "享元（蠅量級）模式")
-	* [DP ─ 橋梁模式：寶可夢進化系統]
+	* [DP ─ 表象(外觀)模式：智能圖鑑](DP_Story_Facade_Pattern.md "Facade_Pattern")
+	* [DP ─ 合成模式：火箭隊](DP_Story_Composite_Pattern.md "Composite_Pattern")
+	* [DP ─ 轉接器模式：橫渡海洋](DP_Story_Adapter_Pattern.md "Adapter_Pattern")
+	* [DP ─ 代理模式：健康中心的電腦](DP_Story_Proxy_Pattern.md "Proxy_Pattern")
+	* [DP ─ 裝飾模式：寶貝球](DP_Story_Decorator_Pattern.md "Decorator_Pattern")
+	* [DP ─ 享元（蠅量級）模式：NPC](DP_Story_Flyweight_Pattern.md "Flyweight_Pattern")
+	* [DP ─ 橋梁模式：寶可夢進化系統](DP_Story_Bridge_Pattern.md "Bridge_Pattern")
 * Behavioral Patterns 行為型模式	
 	* [DP ─ 命令模式]
 	* [DP ─ 觀察者模式]
