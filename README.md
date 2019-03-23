@@ -19,4 +19,4 @@
 	* [Blogger－網誌服務提供商](/5_Other/Blogger/README.md "點我看 Blogger！")
 * Notes
 	* [Reproduce Artical－轉載好文](/6_Notes/Reproduce/README.md "點我看轉載好文！")
-	* [Thoughts－心得感想](/6_Notes/Thougths/README.md "點我看心得感想！")
+	* [Thoughts－心得感想](/6_Notes/Thoughts/README.md "點我看心得感想！")
