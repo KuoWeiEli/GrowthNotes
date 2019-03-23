@@ -5,7 +5,7 @@
 
 * 基本 Basic
     * Git－版本控制
-    * Algorithm－演算法
+    * [Algorithm－演算法](/1_Basic/Algorithm/README.md "點我看 Algorithm！")
     * SOLID、KISS、YAGNI－設計原則
 	* [Design Pattern－設計模式](/1_Basic/Design_Pattern/README.md "點我看 Design Pattern！")
     * GitHub－版本控制程式碼代管服務
