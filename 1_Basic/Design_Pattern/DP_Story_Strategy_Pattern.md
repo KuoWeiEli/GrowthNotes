@@ -74,10 +74,10 @@ public class BattleContext {
     /**
      * 操作參數
      **/
-    public static int COMBAT = 1;                        // 戰鬥
-    public static int USE_ITEM = 2;                       // 使用道具
+    public static int COMBAT = 1;           // 戰鬥
+    public static int USE_ITEM = 2;         // 使用道具
     public static int CHANGE_POKEMON = 3;   // 更換寶可夢
-    public static int ESCAPE = 4;                        // 逃跑
+    public static int ESCAPE = 4;           // 逃跑
 
     private BattleAction action;
 
