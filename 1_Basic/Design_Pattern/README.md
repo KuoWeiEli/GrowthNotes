@@ -32,7 +32,7 @@ Design Pattern
 	* [DP ─ 橋梁模式：寶可夢進化系統](DP_Story_Bridge_Pattern.md "Bridge_Pattern")
 * Behavioral Patterns 行為型模式	
 	* [DP ─ 命令模式：寶可夢中心的治療機器](DP_Story_Command_Pattern.md "Command_Pattern")
-	* [DP ─ 觀察者模式]
+	* [DP ─ 觀察者（發佈─訂閱）模式：玩家福利](DP_Story_Observer_Pattern.md "Observer Pattern")
 	* [DP ─ 策略模式]
 	* [DP ─ 樣板模式]
 	* [DP ─ 走訪器模式]
