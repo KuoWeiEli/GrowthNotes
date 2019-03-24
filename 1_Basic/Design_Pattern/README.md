@@ -12,6 +12,7 @@ Design Pattern
 3. UML：簡單介紹各個類別與其相依關係
 4. Code：詳細介紹各個類別
 5. Sample：程式碼演示
+
 接下來就開始寶可夢旅程吧！
 
 * Creational Patterns 創建型模式
