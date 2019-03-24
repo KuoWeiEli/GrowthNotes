@@ -34,7 +34,7 @@ Design Pattern
 	* [DP ─ 命令模式：寶可夢中心的治療機器](DP_Story_Command_Pattern.md "Command_Pattern")
 	* [DP ─ 觀察者（發佈─訂閱）模式：玩家福利](DP_Story_Observer_Pattern.md "Observer Pattern")
 	* [DP ─ 策略模式：戰鬥介面](DP_Story_Strategy_Pattern.md "Strategy Pattern")
-	* [DP ─ 樣板模式]
+	* [DP ─ 樣板模式：草原與洞穴](DP_Story_Template_Pattern.md "Template Pattern")
 	* [DP ─ 走訪器模式]
 	* [DP ─ 狀態模式]
 	* [DP ─ 責任鏈模式]
