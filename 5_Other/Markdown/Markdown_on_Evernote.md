@@ -9,7 +9,11 @@
 >
 > 國際板的 Evernote 版本號為 6.17.6，[連結附上](https://evernote.com/download "國際版 Evernote")。
 
-國際版的版號略舊，也代表不久之後也會呈現在國際版 Evernote？不過先前就在使用國際版的網友也不用擔心，所有資料完全可以銜接到印象筆記，感覺印象筆記跟國際版是是同個軟體，只是不同版本而已。
+國際版的版號略舊，也代表之後不久也會呈現在國際版 Evernote？不過先前就在使用國際版的網友也不用擔心，可以直接銜接使用印象筆記，看起來就只是版本不同而已，不是另外一個新的軟體。
+
+備註：從國際版更換到印象筆記，其登入頁面須點選**切換到 Evernote International**。登入後，會開始同步並載入伺服器上的筆記內容。反之從印象筆記切換到國際版亦然。
+
+![change_international_evernote](/5_Other/Markdown/Image/change_international_evernote.png "change_international_evernote")
 
 ![11.png](/5_Other/Markdown/Image/11.png "11.png")
 上圖就是印象筆記使用 Markdown 寫作時的樣子。 在左列直接多了一個 `New Markdown Note` 來新增 Markdown 筆記。工具列也與原來的完全不同，如果不熟 Markdown 語法直接使用工具列也很方便。而編輯區分為兩側，左側編輯書寫，右側負責顯示。歐！真是太迷人了！接下來繼續講述 Evernote，你準備好了嗎？
