@@ -7,28 +7,28 @@
 兩者皆有提供命令列以及 GUI 圖形化工具。不過 GitHub For Window 的 GUI，筆者私心覺得比較美觀且易用。不過初學者還是從最基本的命令列工具來學習，一方面可以了解 Git 的指令，一方面也可以加深對於 Git 的了解。
 
 ### 安裝步驟
-安裝步驟除了位置等相關基本資訊是設定自己的指定的，其他皆是使用預設選項。
+安裝步驟除了位置等相關基本資訊是自己想要的設定，其他皆是使用預設選項。
 
-1. 合約條款
+1. 合約條款。
 
 ![Setup 1](/1_Basic/Git/Image/1_GitSetup1.png "Setup 1")
 
-2. 選擇安裝位置
+2. 選擇安裝位置。
 
 ![Setup 2](/1_Basic/Git/Image/1_GitSetup2.png "Setup 2")
 
-3. 選擇欲安裝的元件
+3. 選擇欲安裝的元件。
     * Additional Icons： 選擇是否要在桌面上建立捷徑。
-    * 紅色框框所標註的元件，可在右鍵選單中選擇。‵Git Bash Here` 在當前目錄執行命令列工具。`Git GUI Here` 在當前目錄執行圖形化工具。
+    * 紅色框框所標註的元件，可在右鍵選單中選擇。`Git Bash Here` 在當前目錄執行命令列工具。`Git GUI Here` 在當前目錄執行圖形化工具。
     * Git LFS： 可以讓 Git 處理大型檔案（如圖片、影音檔等）。
     * Associate .git* configuration files with the default text editor：使用預設編輯器開啟 `.git` 為前綴（開頭）的檔案。
     * Associate .sh files to be run with Bash：以命令列工具執行副檔名為 `.sh` 的文件。
     * Use a TrueType font in all console windows：是否所有的命令列工具（包含命令式提示字元等）都使用 TrueType 字體。
-    * Check daily for Git for Windows updates：開啟每天查看是否有無更新
+    * Check daily for Git for Windows updates：是否需要每天檢查有無更新
 
 ![Setup 3](/1_Basic/Git/Image/1_GitSetup3.png "Setup 3")
 
-4. 設置**開始選單**的位置
+4. 設置 Git 在**開始選單**裡的位置。
 
 ![Setup 4](/1_Basic/Git/Image/1_GitSetup4.png "Setup 4")
 
@@ -65,6 +65,7 @@
 ![Setup 10](/1_Basic/Git/Image/1_GitSetup1.png "Setup 10")
 
 11. 安裝完成畫面，恭喜囉！已經成功地把 Git 安裝在本機上了。
+
 ![Setup 11](/1_Basic/Git/Image/1_GitSetup11.png "Setup 11")
 
 
