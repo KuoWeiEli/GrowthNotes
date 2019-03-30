@@ -24,7 +24,7 @@
     * Associate .git* configuration files with the default text editor：使用預設編輯器開啟 `.git` 為前綴（開頭）的檔案。
     * Associate .sh files to be run with Bash：以命令列工具執行副檔名為 `.sh` 的文件。
     * Use a TrueType font in all console windows：是否所有的命令列工具（包含命令式提示字元等）都使用 TrueType 字體。
-    * Check daily for Git for Windows updates：是否需要每天檢查有無更新
+    * Check daily for Git for Windows updates：是否需要每天檢查有無更新。
 
 ![Setup 3](/1_Basic/Git/Image/1_GitSetup3.png "Setup 3")
 
