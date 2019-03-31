@@ -1,6 +1,6 @@
 # 讓 Git 接管你的專案
 
-經過前面兩篇[Git 安裝筆記](1_Git_Install.md "還沒安裝嗎？快進去瞧瞧！")、[Git Config 基本設定](2_Git_Config_Basic.md "還沒完成基本設定嗎？快進去瞧瞧！")後，我們終於可以建立第一個 Git 專案囉！跟著筆者動一動，手指動一動！
+經過前面兩篇 [Git 安裝筆記](1_Git_Install.md "還沒安裝嗎？快進去瞧瞧！")、[Git Config 基本設定](2_Git_Config_Basic.md "還沒完成基本設定嗎？快進去瞧瞧！")後，我們終於可以建立第一個 Git 專案囉！跟著筆者動一動，手指動一動！
 
 ### 建立 Git 檔案庫
 首先我們找到需要被 Git 管理的資料夾，不論是新資料夾或是已有資料的舊資料夾，通通都可以使用。接著在該資料下開啟命令列工具（右鍵→Git Bash Here），使用 `git init` 指令會出現下圖訊息。
@@ -57,7 +57,7 @@
 -A | 將**新增/修改/刪除**的檔案加入到索引
 -f | 無視忽略規則並加入到索引
 
-那我們可以將已加入索引的檔案移除嗎？只要使用指令 `git rm --cached 檔案名稱` 即可辦到。下圖展示了使用 add -f 忽視 .gitignore 的規則將檔案加入到索引，再利用 `git rm --cached 檔案名稱` 將檔案從索引中移除。
+那我們可以將已加入索引的檔案移除嗎？只要使用指令 `git rm --cached 檔案名稱` 即可辦到。下圖展示了使用 `git add -f` 忽視 .gitignore 的規則將檔案加入到索引，再利用 `git rm --cached 檔案名稱` 將檔案從索引中移除。
 
 ![add -f and rm --cached demo](/1_Basic/Git/Image/3_Git_Local_Repository8.png "add -f and rm --cached demo")
 
