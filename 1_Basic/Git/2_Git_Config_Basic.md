@@ -37,7 +37,7 @@ Git 提交時，會附上相關的使用者資訊，在 commit 動作完成不�
 
 ### 預設編輯器
 
-在上一篇**安裝筆記**中有提到，其中第五個步驟是選擇預設的編輯器，筆者那時候選擇的是 Notepad++。使用 `git config --system core.editor` 指令會得到 notepad++.exe 所在的路徑（Notepad 的安裝路徑下可找到 notepad++.exe）。如果想要更改預設的編輯器，可以打上如下指令：`git config --system core.editor "'編輯器執行檔的路徑'"`。或者想要反璞歸真使用 Windows 的記事本，打上下面指令即可：`git config --system core.editor notepad`。
+在上一篇 [Git 安裝筆記](1_Git_Install.md "再看一次 Git 安裝筆記？")中有提到，其中第五個步驟是選擇預設的編輯器，筆者那時候選擇的是 Notepad++。使用 `git config --system core.editor` 指令會得到 notepad++.exe 所在的路徑（Notepad 的安裝路徑下可找到 notepad++.exe）。如果想要更改預設的編輯器，可以打上如下指令：`git config --system core.editor "'編輯器執行檔的路徑'"`。或者想要反璞歸真使用 Windows 的記事本，打上下面指令即可：`git config --system core.editor notepad`。
 
 ### 檔案比對程式
 
