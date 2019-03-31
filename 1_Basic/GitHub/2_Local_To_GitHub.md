@@ -32,7 +32,7 @@
 
 ![LocalToGitHub6](/1_Basic/GitHub/Image/2_LocalToGitHub6.png "LocalToGitHub6")
 
-7. 還記得要怎麼解決衝突嗎？忘記了也別擔心，這邊在一步一步教學，其實也就兩步...！
+7. 還記得要怎麼解決衝突嗎？忘記了也別擔心，這邊會一步一步教學，其實也就兩步...！
 第一步：使用 `git fetch` 將 GitHub 的檔案庫的內容拉到本地檔案庫。
 第二步：使用 `git rebase origin/master` 將兩者合併。如下圖：
 
