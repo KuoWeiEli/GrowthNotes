@@ -12,3 +12,4 @@ Git 是一個分散式版本控制軟體（DVCS），為現今最受歡迎的 VC
 
 * [Git 安裝筆記](1_Git_Install.md "Git 安裝詳解")
 * [Git Config 基本設定](2_Git_Config_Basic.md "Config 基本中的基本")
+* [讓 Git 接管你的專案](3_Git_Local_Repository.md "要怎麼建立本地檔案庫？")
