@@ -12,3 +12,4 @@ GitHub 是全世界最大的軟體原始碼代碼服務，使用 Git 作為版�
 
 * * *
 * [GitHub 上的專案複製到本機上](1_GitHub_To_Local.md "GitHub 上的專案複製到本機上")
+* [將本機專案複製到 GitHub 上](2_Local_To_GitHub.md "將本機專案複製到 GitHub 上")
