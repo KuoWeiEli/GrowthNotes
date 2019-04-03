@@ -6,3 +6,4 @@ Thoughts 心得感想
 * * *
 
 * [讀書心得：The Clean Coder 無瑕的程式碼（番外篇）](ArticalThoughts_TheCleanCoderExtra.md "認識專業主義吧！")
+* [讀書心得：The Nature of Software Development 軟件開發本質論](ArticalThoughts_TheNatureOfSoftwareDevelopment.md "來看看什麼是開發的本質！")
