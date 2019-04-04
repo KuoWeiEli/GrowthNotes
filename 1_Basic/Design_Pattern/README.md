@@ -35,7 +35,7 @@ Design Pattern
 	* [DP ─ 觀察者（發佈─訂閱）模式：玩家福利](DP_Story_Observer_Pattern.md "Observer Pattern")
 	* [DP ─ 策略模式：戰鬥介面](DP_Story_Strategy_Pattern.md "Strategy Pattern")
 	* [DP ─ 樣板模式：草原與洞穴](DP_Story_Template_Pattern.md "Template Pattern")
-	* [DP ─ 走訪器模式]
+	* [DP ─ 走訪器模式：寶可夢圖鑑](DP_Story_Iterator_Pattern.md "Iterator Pattern")
 	* [DP ─ 狀態模式]
 	* [DP ─ 責任鏈模式]
 	* [DP ─ 解譯器模式]
