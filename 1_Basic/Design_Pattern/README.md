@@ -36,7 +36,7 @@ Design Pattern
 	* [DP ─ 策略模式：戰鬥介面](DP_Story_Strategy_Pattern.md "Strategy Pattern")
 	* [DP ─ 樣板模式：草原與洞穴](DP_Story_Template_Pattern.md "Template Pattern")
 	* [DP ─ 走訪器模式：寶可夢圖鑑](DP_Story_Iterator_Pattern.md "Iterator Pattern")
-	* [DP ─ 狀態模式]
+	* [DP ─ 狀態模式：異常狀態](DP_Story_State_Pattern.md "State Pattern")
 	* [DP ─ 責任鏈模式]
 	* [DP ─ 解譯器模式]
 	* [DP ─ 中介者模式]
