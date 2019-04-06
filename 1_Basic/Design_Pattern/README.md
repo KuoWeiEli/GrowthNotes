@@ -38,7 +38,7 @@ Design Pattern
 	* [DP ─ 走訪器模式：寶可夢圖鑑](DP_Story_Iterator_Pattern.md "Iterator Pattern")
 	* [DP ─ 狀態模式：異常狀態](DP_Story_State_Pattern.md "State Pattern")
 	* [DP ─ 責任鏈模式：積分對戰](DP_Story_ChainOfResponsibility_Pattern.md "ChainOfResponsibility Pattern")
-	* [DP ─ 解譯器模式]
+	* [DP ─ 解譯器模式：石板之謎](DP_Story_Interpreter_Pattern.md "Interpreter Pattern")
 	* [DP ─ 中介者模式]
 	* [DP ─ 備忘錄模式]
 	* [DP ─ 拜訪者模式]
