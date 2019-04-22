@@ -7,7 +7,7 @@
 
 ![LocalToGitHub1](/1_Basic/GitHub/Image/2_LocalToGitHub1.png "LocalToGitHub1")
 
-2. 點擊後會出現 Create a ne repository 頁面設定檔案庫的相關資訊。可以看到**是否建立相關文件**那裏，GitHub 提供了三個文件給用戶選擇：
+2. 點擊後會出現 Create a new repository 頁面設定檔案庫的相關資訊。可以看到**是否建立相關文件**那裏，GitHub 提供了三個文件給用戶選擇：
     * **README** 是個支援類 Markdown 語法的自述檔案。
     * **.gitignore** 為 Git 檔案庫的忽略檔案設定
     * **License（授權）** 是其他用戶在引用檔案庫時，必須遵照檔案庫所聲明的規範。PROGRESSBAR 的文章─[在開源時代的興起下，如何透過 License 共享並保有權益](https://progressbar.tw/posts/61 "點我去看 License 好文！")，這篇講的淺顯易懂，大家可以參考一下！
