@@ -1,5 +1,10 @@
 Design Pattern
 ===========================
+最早的設計模式是在 1977 年時由建築師 [Christopher Alexander](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E4%BD%9B%C2%B7%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7)所創作的，後來由 [Erich Gamma](https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E4%BC%BD%E7%91%AA) 與其他三位作者 Richard Helm, Ralph Johnson, John Vlissides（他們四人常被稱為四人幫（Gang of Four, GoF）共同著作 [Design Patterns - Elements of Reusable Object-Oriented Software](https://zh.wikipedia.org/wiki/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9A%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80) 一書。此書總共有 23 個設計模式，並將這些模式分為三類：
+
+* Creational Patterns 創建型模式：探討建立對象的方法
+* Structural Patterns 結構型模式：對象互相之間的關係
+* Behavioral Patterns 行為型模式：對象互相之間的行為
 
 
 * * *

@@ -7,7 +7,7 @@
     * [Git－版本控制](/1_Basic/Git/README.md "點我看 Git！")
 	* [GitHub－版本控制程式碼代管服務](/1_Basic/GitHub/README.md "點我看 GitHub！")
     * [Algorithm－演算法](/1_Basic/Algorithm/README.md "點我看 Algorithm！")
-    * SOLID、KISS、YAGNI－設計原則
+    * [Design Principle－設計準則](/1_Basic/Design_Principle/README.md "點我看 Design Principle！")
 	* [Design Pattern－設計模式](/1_Basic/Design_Pattern/README.md "點我看 Design Pattern！")
 * 前端 Front-end
 	* [Javascript－Functional Languages](/2_FrontEnd/Javascript/README.md "點我看 Javascript！")
