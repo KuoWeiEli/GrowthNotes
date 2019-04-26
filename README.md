@@ -15,7 +15,12 @@
 * 後端 Back-end
 	* [Oracle－關聯式資料庫管理系統](/3_BackEnd/Oracle/README.md "點我看 Oracle！")
 	* [Java－Compiled Language](/3_BackEnd/Java/README.md "點我看 Java！")
+	* Spring Boot－Framework
+	* Radis－鍵值對資料庫管理系統
+	* MongoDB－文件導向資料庫管理系統
 * DevOps 
+	* Docker－虛擬容器
+	* AWS－亞馬遜雲端運算服務
 * Other
     * [Markdown－輕量型標記語言](/5_Other/Markdown/README.md "點我看 Markdown！")
 	* [Blogger－網誌服務提供商](/5_Other/Blogger/README.md "點我看 Blogger！")
