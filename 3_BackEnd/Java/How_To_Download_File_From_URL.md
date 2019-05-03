@@ -2,7 +2,7 @@
 
 常常會有這個需求：從某個伺服器下載檔案到本地端。如何利用 Java 來達成這個功能呢？來看看下列的程式碼吧！
 
-### 範例解說
+## 範例解說
 通常開放下載的檔案有個對應的 URL（用來對應伺服器端的某個位置），筆者這個範例就以下列網址：<https://www.sitca.org.tw/ROC/Download/K0000.aspx> 為例！這個連結提供各式表單供人下載，每個表單其實都對應著一個 URL。這邊就以**DP.基金應負擔費用率資訊、費用率及報酬率資訊**的**5.投信基金各級別近五年度費用率及報酬率資訊**電子表單為下載目標。
 
 點擊下載圖示後，瀏覽器會自動呼叫這個圖式所設定的 URL，並下載檔案下來。可以對圖式右鍵→檢查，即可以看到它所呼叫的 URL 是什麼！所以可以看到程式的範例 `url` 變數的數值為 `"https://members.sitca.org.tw/OPF/K0000/files/P/05/投信基金各級別近五年度費用率及報酬率資訊.csv"`。
@@ -59,8 +59,8 @@ public class UrlHelper {
 }
 ```
 
-### Trouble Shoot
-##### 版本不支援伺服器的安全協定
+## Trouble Shoot
+### 版本不支援伺服器的安全協定
 
 這個錯誤會出現下列訊息：主要是在講對象伺服器的安全協定為 TLSv1.2，而本地的 JDK 版本不支援。
 
@@ -72,13 +72,20 @@ TLSv1.2 為傳輸層安全協定的一種，我們來看看[維基百科](https:
 
 要解決這個問題可以提升 JDK 版本到 1.8。
 
-##### 無法找到有效憑證
-
+### 無法找到有效憑證
 這個錯誤會出現下列訊息：
 
-`sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target`
+```
+sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+```
 
-主要是 Java 在憑證檔中找不到該伺服器的憑證序號。該憑證檔的路徑為：
+主要是 Java 在憑證檔中找不到該伺服器的憑證序號。解決方法有兩種：
+1. 匯入該網站憑證於 Java 憑證檔
+2. 使用程式自動忽略所有憑證
+
+#### 1、匯入該網站憑證於 Java 憑證檔
+
+Java 的憑證檔路徑為：
 
 ```
 ../yourJDK/jre/lib/security/cacerts
@@ -110,7 +117,67 @@ keytool -import -alias wwwsitcaorgtw -keystore  cacerts -file wwwsitcaorgtw.crt
 
 參考網址：<http://magicmonster.com/kb/prg/java/ssl/pkix_path_building_failed.html>
 
-##### 400 回應
+#### 2、使用程式自動忽略所有憑證
+
+忽略憑證邏輯如下：
+
+```Java
+public class SslUtils {
+    /**
+     * 忽略 HTTPS 請求的 SSL 憑證，需在開啟連線時調用此方法
+     */
+    public static void ignoreVerify() throws Exception {
+        ignoreVerifyHttpsTrustManager();
+        ignoreVerifyHttpsHostName();
+    }
+
+    /**
+     * 忽略驗證 https
+     */
+    private static void ignoreVerifyHttpsHostName() {
+        HostnameVerifier hv = new HostnameVerifier() {
+            public boolean verify(String urlHostName, SSLSession session) {
+                System.out.println("Warning: URL Host: " + urlHostName + " vs. " + session.getPeerHost());
+                return true;
+            }
+        };
+        HttpsURLConnection.setDefaultHostnameVerifier(hv);
+    }
+
+    /**
+     * 忽略驗證 https
+     */
+    private static void ignoreVerifyHttpsTrustManager() throws Exception {
+        TrustManager[] trustAllCerts = new TrustManager[]{
+                new X509TrustManager() {
+                    public java.security.cert.X509Certificate[] getAcceptedIssuers() {
+                        return null;
+                    }
+
+                    public void checkClientTrusted(java.security.cert.X509Certificate[] certs, String authType) {
+                    }
+
+                    public void checkServerTrusted(java.security.cert.X509Certificate[] certs, String authType) {
+                    }
+                }
+        };
+
+        SSLContext sc = SSLContext.getInstance("SSL");
+        sc.init(null, trustAllCerts, new java.security.SecureRandom());
+        HttpsURLConnection.setDefaultSSLSocketFactory(sc.getSocketFactory());
+    }
+}
+```
+
+`SslUtils.ignoreVerify()` 方法需要在開啟連線前呼叫，**且只要呼叫一次就行**。
+
+```Java
+	SslUtils.ignoreVerify();
+	HttpURLConnection conn = (HttpURLConnection) fileUrl.openConnection();
+	/** 連線 **/
+	conn.connect();
+```
+### 400 回應
 
 會出現下列錯誤訊息：
 
