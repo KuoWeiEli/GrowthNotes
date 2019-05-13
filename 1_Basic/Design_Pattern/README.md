@@ -20,6 +20,8 @@ Design Pattern
 
 接下來就開始寶可夢旅程吧！
 
+> 所有的程式碼可以在這個檔案庫中找到 [DP_By_Pokemon](https://github.com/KuoWeiEli/DP_By_Pokemon "使用寶可夢來介紹設計模式")
+
 * Creational Patterns 創建型模式
 	* [DP ─ 簡單工廠模式：選擇御三家](DP_Story_Simple_Factory_Pattern.md "Simple_Factory_Pattern")
 	* [DP ─ 工廠模式：挑戰道館](DP_Story_Factory_Pattern.md "Factory_Pattern")
