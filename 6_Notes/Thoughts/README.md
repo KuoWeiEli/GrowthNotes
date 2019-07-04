@@ -7,6 +7,7 @@ Thoughts 心得感想
 
 * [讀書心得：The Clean Coder 無瑕的程式碼（番外篇）](ArticalThoughts_TheCleanCoderExtra.md "認識專業主義吧！")
 * [讀書心得：The Nature of Software Development 軟件開發本質論](ArticalThoughts_TheNatureOfSoftwareDevelopment.md "來看看什麼是開發的本質！")
+* [讀書筆記：Java 8 Lambdas 技術手冊](ArticalNote_JavaLambda8.md "快速瀏覽筆者整理的本書重點內容！")
 
 * * *
 ### 閱書紀錄
@@ -21,6 +22,7 @@ Thoughts 心得感想
 * 2018/09/28 [Java EE開發的顛覆者-Spring Boot實戰。汪云飛。電子工業出版社](https://www.tenlong.com.tw/products/9787121282089?list_name=srh)
 * 2018/10/22 [軟件開發本質論：追求簡約、體現價值、逐步建構。Ron Jerrries著/王凌云譯。人民郵電出版社](https://www.tenlong.com.tw/products/9787115441102?list_name=srh)
 * 2018/11/17 [七天學會設計模式：設計模式也可以這樣學。硯取歪。博碩](https://www.tenlong.com.tw/products/9789864342044?list_name=srh)
+* 2019/04/29 [Java 8 Lambdas 技術手冊。Richard Warburton/林信良譯。歐萊禮](https://www.tenlong.com.tw/products/9789863474067?list_name=srh)
 
 
 
